@@ -1,0 +1,11 @@
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\bin\Debug\Drhazem.exe.config
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\bin\Debug\Drhazem.exe
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\bin\Debug\Drhazem.pdb
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\bin\Debug\Drhazem.xml
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\Drhazem.vbprojAssemblyReference.cache
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\Drhazem.Resources.resources
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\Drhazem.vbproj.GenerateResource.cache
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\Drhazem.vbproj.CoreCompileInputs.cache
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\Drhazem.exe
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\Drhazem.xml
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\Drhazem.pdb

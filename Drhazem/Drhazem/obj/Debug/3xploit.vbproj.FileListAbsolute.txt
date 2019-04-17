@@ -1,0 +1,11 @@
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\3xploit.vbprojAssemblyReference.cache
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\3xploit.vbproj.GenerateResource.cache
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\3xploit.vbproj.CoreCompileInputs.cache
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\bin\Debug\test.exe.config
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\bin\Debug\test.exe
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\bin\Debug\test.pdb
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\bin\Debug\test.xml
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\test.Resources.resources
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\test.exe
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\test.xml
+C:\Users\Anony\Desktop\NET\Drhazem\Drhazem\obj\Debug\test.pdb
